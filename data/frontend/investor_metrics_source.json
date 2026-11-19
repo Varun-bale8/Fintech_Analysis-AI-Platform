@@ -1,0 +1,77 @@
+{
+  "as_of_year": 2024,
+  "previous_year": 2023,
+  "title": "FY24 Growth Comparison",
+  "subtitle": "Year-on-year growth in balance sheet and financial performance across leading Indian financial institutions.",
+  "companies": {
+    "HDFCBANK": {
+      "name": "HDFC Bank",
+      "metrics": [
+        {
+          "label": "Total Assets",
+          "current": 3617623.0,
+          "previous": 2466081.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "HDFC Bank FY24 Annual Report",
+          "source_page": 182
+        },
+        {
+          "label": "Profit After Tax",
+          "current": 60812.0,
+          "previous": 44109.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "HDFC Bank FY24 Annual Report",
+          "source_page": 54
+        }
+      ]
+    },
+    "ICICIBANK": {
+      "name": "ICICI Bank",
+      "metrics": [
+        {
+          "label": "Total Assets",
+          "current": 2364063.0,
+          "previous": 1958490.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "ICICI Bank FY24 Annual Report",
+          "source_page": 128
+        },
+        {
+          "label": "Profit After Tax",
+          "current": 40888.0,
+          "previous": 31896.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "ICICI Bank FY24 Annual Report",
+          "source_page": 42
+        }
+      ]
+    },
+    "PAYTM": {
+      "name": "Paytm",
+      "metrics": [
+        {
+          "label": "Total Assets",
+          "current": 16928.0,
+          "previous": 17398.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "Paytm FY24 Annual Report",
+          "source_page": 95
+        },
+        {
+          "label": "Contribution Profit",
+          "current": 5412.0,
+          "previous": 3900.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "Paytm FY24 Annual Report",
+          "source_page": 28
+        }
+      ]
+    }
+  }
+}

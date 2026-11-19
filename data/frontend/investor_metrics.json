@@ -1,0 +1,101 @@
+{
+  "title": "FY24 Growth Comparison",
+  "subtitle": "Year-on-year growth in balance sheet and financial performance across leading Indian financial institutions.",
+  "as_of_year": 2024,
+  "previous_year": 2023,
+  "companies": {
+    "HDFCBANK": {
+      "name": "HDFC Bank",
+      "metrics": [
+        {
+          "label": "Total Assets",
+          "current": 3617623.0,
+          "previous": 2466081.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "HDFC Bank FY24 Annual Report",
+          "source_page": 182,
+          "display_value": "₹36.18 Lakh Cr",
+          "previous_display_value": "₹24.66 Lakh Cr",
+          "growth_percent": 46.695222095300196,
+          "growth_display": "+46.7%"
+        },
+        {
+          "label": "Profit After Tax",
+          "current": 60812.0,
+          "previous": 44109.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "HDFC Bank FY24 Annual Report",
+          "source_page": 54,
+          "display_value": "₹60,812.0 Cr",
+          "previous_display_value": "₹44,109.0 Cr",
+          "growth_percent": 37.86755537418667,
+          "growth_display": "+37.9%"
+        }
+      ]
+    },
+    "ICICIBANK": {
+      "name": "ICICI Bank",
+      "metrics": [
+        {
+          "label": "Total Assets",
+          "current": 2364063.0,
+          "previous": 1958490.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "ICICI Bank FY24 Annual Report",
+          "source_page": 128,
+          "display_value": "₹23.64 Lakh Cr",
+          "previous_display_value": "₹19.58 Lakh Cr",
+          "growth_percent": 20.708453961980915,
+          "growth_display": "+20.7%"
+        },
+        {
+          "label": "Profit After Tax",
+          "current": 40888.0,
+          "previous": 31896.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "ICICI Bank FY24 Annual Report",
+          "source_page": 42,
+          "display_value": "₹40,888.0 Cr",
+          "previous_display_value": "₹31,896.0 Cr",
+          "growth_percent": 28.191622774015553,
+          "growth_display": "+28.2%"
+        }
+      ]
+    },
+    "PAYTM": {
+      "name": "Paytm",
+      "metrics": [
+        {
+          "label": "Total Assets",
+          "current": 16928.0,
+          "previous": 17398.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "Paytm FY24 Annual Report",
+          "source_page": 95,
+          "display_value": "₹16,928.0 Cr",
+          "previous_display_value": "₹17,398.0 Cr",
+          "growth_percent": -2.7014599379238993,
+          "growth_display": "-2.7%"
+        },
+        {
+          "label": "Contribution Profit",
+          "current": 5412.0,
+          "previous": 3900.0,
+          "unit": "inr_crore",
+          "change_mode": "percentage",
+          "source": "Paytm FY24 Annual Report",
+          "source_page": 28,
+          "display_value": "₹5,412.0 Cr",
+          "previous_display_value": "₹3,900.0 Cr",
+          "growth_percent": 38.76923076923077,
+          "growth_display": "+38.8%"
+        }
+      ]
+    }
+  }
+}

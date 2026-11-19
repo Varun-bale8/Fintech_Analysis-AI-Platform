@@ -1,0 +1,85 @@
+{
+  "flashcards": [
+    {
+      "id": "hdfc_1",
+      "company": "HDFC Bank",
+      "title": "Net profit milestone",
+      "fact": "HDFC Bank reported ₹60,812 crore in net profit for FY24, reflecting strong consolidated performance and post-merger scale.",
+      "year": 2024,
+      "category": "Financial performance",
+      "source": "HDFC Bank FY24 Annual Report"
+    },
+    {
+      "id": "hdfc_2",
+      "company": "HDFC Bank",
+      "title": "Surging deposit base",
+      "fact": "HDFC Bank's total deposits grew 26.4% in FY24 to ₹23.8 lakh crore, up from ₹18.83 lakh crore in FY23.",
+      "year": 2024,
+      "category": "Balance sheet",
+      "source": "HDFC Bank FY24 Annual Report"
+    },
+    {
+      "id": "hdfc_3",
+      "company": "HDFC Bank",
+      "title": "Extensive distribution",
+      "fact": "HDFC Bank expanded its branch network to over 8,735 branches and 20,938 ATMs across India.",
+      "year": 2024,
+      "category": "Infrastructure",
+      "source": "HDFC Bank FY24 Annual Report"
+    },
+    {
+      "id": "icici_1",
+      "company": "ICICI Bank",
+      "title": "₹40,000+ crore profit milestone",
+      "fact": "ICICI Bank recorded ₹40,888 crore in standalone profit after tax in FY24, up 28.2% from ₹31,896 crore in FY23.",
+      "year": 2024,
+      "category": "Financial performance",
+      "source": "ICICI Bank FY24 Annual Report"
+    },
+    {
+      "id": "icici_2",
+      "company": "ICICI Bank",
+      "title": "Superior asset quality",
+      "fact": "ICICI Bank's net NPA ratio improved to 0.42% at March 31, 2024, compared to 0.48% at March 31, 2023.",
+      "year": 2024,
+      "category": "Asset Quality",
+      "source": "ICICI Bank FY24 Annual Report"
+    },
+    {
+      "id": "icici_3",
+      "company": "ICICI Bank",
+      "title": "Expanding loan book",
+      "fact": "ICICI Bank's total advances grew 16.2% year-on-year to ₹11.84 lakh crore at March 31, 2024.",
+      "year": 2024,
+      "category": "Lending",
+      "source": "ICICI Bank FY24 Annual Report"
+    },
+    {
+      "id": "paytm_1",
+      "company": "Paytm",
+      "title": "Contribution profit growth",
+      "fact": "Paytm reported operational revenue of ₹9,978 crore in FY24, with contribution profit expanding to ₹5,412 crore.",
+      "year": 2024,
+      "category": "Fintech Performance",
+      "source": "Paytm FY24 Annual Report"
+    },
+    {
+      "id": "paytm_2",
+      "company": "Paytm",
+      "title": "Over 1 crore payment devices",
+      "fact": "Paytm's subscription merchant base reached 1.07 crore active devices (Soundboxes & Card Machines) in FY24.",
+      "year": 2024,
+      "category": "Merchant Network",
+      "source": "Paytm FY24 Annual Report"
+    },
+    {
+      "id": "paytm_3",
+      "company": "Paytm",
+      "title": "UPI payments leadership",
+      "fact": "Paytm continues as one of India's top 3 UPI payment apps, processing billions of GMV transactions annually.",
+      "year": 2024,
+      "category": "Scale & UPI",
+      "source": "Paytm Investor Relations"
+    }
+  ]
+}

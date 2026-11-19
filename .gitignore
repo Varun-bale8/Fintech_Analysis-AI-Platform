@@ -1,0 +1,13 @@
+data/evaluation
+data/hdfcbank
+data/icicibank
+data/paytm
+data/gtco
+data/mtnn
+data/zenithbank
+**.env
+**__pycache__
+**.DS_Store
+financial_analysis.dump
+**OLD**
+media/streamlit-app-video.mp4
